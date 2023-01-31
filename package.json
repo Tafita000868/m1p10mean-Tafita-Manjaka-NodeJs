@@ -1,0 +1,34 @@
+{
+  "name": "m1p10mean-tafita-manjaka-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js Express + mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "authentification",
+    "authorization",
+    "mongodb",
+    "mongoClient",
+    "mongoose"
+  ],
+  "author": "tafitaManjaka",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "googleapis": "^39.2.0",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "mongoose-seed": "^0.6.0",
+    "nodemailer": "^6.9.1"
+  }
+}
